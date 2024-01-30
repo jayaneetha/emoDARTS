@@ -6,6 +6,8 @@ This repository contains the code for the
 paper [emoDARTS: Joint Optimisation of CNN & Sequential Neural Network Architectures for Superior Speech Emotion Recognition](https://arxiv.org/abs/2305.14402)
 by [Thejan Rajapakshe et al.]
 
+The code is originally forked from [khanrc/pt.darts](https://github.com/khanrc/pt.darts)
+
 ### Abstract
 
 Speech Emotion Recognition (SER) is critical in allowing emotion-aware communication in human-computer interactions.
