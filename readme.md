@@ -29,12 +29,14 @@ datasets.
 If you find this repository useful in your research, please cite:
 
 ```
-@misc{rajapakshe2024enhancing,
-      title={Enhancing Speech Emotion Recognition Through Differentiable Architecture Search}, 
-      author={Thejan Rajapakshe and Rajib Rana and Sara Khalifa and Berrak Sisman and Björn Schuller},
-      year={2024},
-      eprint={2305.14402},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}
-}
+@ARTICLE{10623665,
+  author={Rajapakshe, Thejan and Rana, Rajib and Khalifa, Sara and Sisman, Berrak and Schuller, Björn W. and Busso, Carlos},
+  journal={IEEE Access}, 
+  title={emoDARTS: Joint Optimization of CNN and Sequential Neural Network Architectures for Superior Speech Emotion Recognition}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={110492-110503},
+  keywords={Computer architecture;Microprocessors;Convolutional neural networks;Emotion recognition;Speech recognition;Optimization;Long short term memory;Speech emotion recognition;neural architecture search;deep learning;DARTS},
+  doi={10.1109/ACCESS.2024.3439604}}
 ```
